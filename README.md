@@ -19,7 +19,7 @@ The mod has been split into two complementary parts: **[Map] Nitraria Map**, whi
 Based on the “Seasons of Silver” scenario, three desert islands await colonization. Despite their small size and limited resources, the region offers a spectacular desert contrast within the new world. Of course, the desert environment of this new region can help you create scenarios based on the American Wild West, the arid coasts of North Africa, and many other ideas.
 
 <p align="center">
-  <img width="700" src="https://github.com/marceloigallegos/nitraria/blob/main/image2.png">
+  <img width="700" src="https://github.com/marceloigallegos/nitraria/blob/main/image6.png">
   <br><em>The new region is located in the south of the New World continent.</em><br>
 </p>
 
