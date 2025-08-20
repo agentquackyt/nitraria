@@ -1,0 +1,12 @@
+﻿<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>2005000010</GUID>
+      <Text>Nitraria</Text>
+    </Text>
+    <Text>
+      <GUID>2005000011</GUID>
+      <Text>Enter "Nitraria"</Text>
+    </Text>
+  </ModOp>
+</ModOps>

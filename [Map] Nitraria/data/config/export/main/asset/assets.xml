@@ -1,0 +1,309 @@
+<ModOps>
+
+    <!-- Add New Session -->
+    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='180023']">
+        <Asset>
+            <Template>SessionSouthAmerica</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>2005000010</GUID>
+                      <Name>Nitraria</Name>
+                      <IconFilename>data/ui/2kimages/main/icons/icon_session_nitraria_0.png</IconFilename>
+                    </Standard>
+                    <Session>
+					  <MapTemplate>2005000012</MapTemplate>
+                      <CameraLoopSequence1>11</CameraLoopSequence1>
+                      <CameraLoopSequence2>10</CameraLoopSequence2>
+                      <AllowAdvancedCameraSettings>1</AllowAdvancedCameraSettings>
+                      <TransferData>
+                    <!-- ############################################################### -->
+                    <Item>
+                        <!-- Europe -->
+                        <Session>180023</Session>
+                        <Duration>280000</Duration>
+                        <Direction>NorthEast</Direction>
+                    </Item>
+                    <Item>
+                        <!-- EuropeNorth_Expedition01 -->
+                        <Session>800385</Session>
+                        <Duration>460000</Duration>
+                        <Direction>NorthEast</Direction>
+                    </Item>
+                    <Item>
+                        <!-- EuropeCentral_Expedition02 -->
+                        <Session>800433</Session>
+                        <Duration>370000</Duration>
+                        <Direction>NorthEast</Direction>
+                    </Item>
+                    <Item>
+                        <!-- EuropeSouth_Expedition03 -->
+                        <Session>800432</Session>
+                        <Duration>400000</Duration>
+                        <Direction>NorthEast</Direction>
+                    </Item>
+                    <!-- ############################################################### -->
+                    <Item>
+                        <!-- SouthAmerica_Unlock -->
+                        <Session>800390</Session>
+                        <Duration>100000</Duration>
+                        <Direction>North</Direction>
+                    </Item>
+                    <Item>
+                        <!-- SouthAmerica -->
+                        <Session>180025</Session>
+                        <Duration>100000</Duration>
+                        <Direction>North</Direction>
+                    </Item>
+                    <Item>
+                        <!-- SouthAmerica_Expedition01 -->
+                        <Session>800386</Session>
+                        <Duration>100000</Duration>
+                        <Direction>North</Direction>
+                    </Item>
+                    <Item>
+                        <!-- SouthAmerica_Expedition02 -->
+                        <Session>800387</Session>
+                        <Duration>100000</Duration>
+                        <Direction>North</Direction>
+                    </Item>
+                    <Item>
+                        <!-- Campaign Chapter 3/SouthAmerica -->
+                        <Session>801999</Session>
+                        <Duration>100000</Duration>
+                        <Direction>North</Direction>
+                    </Item>
+                    <!-- ############################################################### -->
+                    <Item>
+                        <!-- SunkenTreasures_Unlock -->
+                        <Session>803421</Session>
+                        <Duration>280000</Duration>
+                        <Direction>NorthEast</Direction>
+                    </Item>
+                    <Item>
+                        <!-- Cape Trelawney -->
+                        <Session>110934</Session>
+                        <Duration>280000</Duration>
+                        <Direction>NorthEast</Direction>
+                    </Item>
+                    <!-- ############################################################### -->
+                    <Item>
+                        <!-- Arctic Unlock -->
+                        <Session>803422</Session>
+                        <Duration>370000</Duration>
+                        <Direction>North</Direction>
+                    </Item>
+                    <Item>
+                        <!-- The Arctic -->
+                        <Session>180045</Session>
+                        <Duration>370000</Duration>
+                        <Direction>North</Direction>
+                    </Item>
+                    <Item>
+                        <!-- Arctic_Expedtion01 -->
+                        <Session>800384</Session>
+                        <Duration>370000</Duration>
+                        <Direction>North</Direction>
+                    </Item>
+                    <Item>
+                        <!-- Arctic_Expedtion02 -->
+                        <Session>800703</Session>
+                        <Duration>370000</Duration>
+                        <Direction>North</Direction>
+                    </Item>
+                    <!-- ############################################################### -->
+                    <Item>
+                        <!-- Enbesa Unlock -->
+                        <Session>803423</Session>
+                        <Duration>310000</Duration>
+                        <Direction>NorthEast</Direction>
+                    </Item>
+                    <Item>
+                        <!-- Enbesa -->
+                        <Session>112132</Session>
+                        <Duration>310000</Duration>
+                        <Direction>NorthEast</Direction>
+                    </Item>
+                    <!-- ############################################################### -->
+                    <Item>
+                        <!-- Not sure what this is -->
+                        <Session>800703</Session>
+                        <Duration>310000</Duration>
+                        <Direction>NorthEast</Direction>
+                    </Item>
+                    <!-- ############################################################### -->
+                    <Item>
+                         <!-- Four Crowns -->
+                         <Session>2111001</Session>
+                          <Duration>360000</Duration>
+                          <Direction>NorthEast</Direction>
+                    </Item>
+                    <Item>
+                          <!-- Kingsgrove -->
+                          <Session>2121001</Session>
+                           <Duration>310000</Duration>
+                           <Direction>North</Direction>
+                    </Item>
+                    <Item>
+                           <!-- Arctic Map - White and Cold -->
+                           <Session>1742001000</Session>
+                          <Duration>360000</Duration>
+                          <Direction>North</Direction>
+                    </Item>
+                    <Item>
+                         <!-- New Horizons -->
+                         <Session>133700000</Session>
+                         <Duration>410000</Duration>
+                           <Direction>NorthEast</Direction>
+                    </Item>
+					<Item>
+                         <!-- Australis - Mod America 01 -->
+                         <Session>2005000000</Session>
+                         <Duration>90000</Duration>
+                           <Direction>North</Direction>
+                    </Item>
+                </TransferData>
+                <SpawnStartShipAndKontor>0</SpawnStartShipAndKontor>
+                <SecondPartiesMaySettleHere>1</SecondPartiesMaySettleHere>
+                <WorldMapCardBackground>2005000015</WorldMapCardBackground>
+                <WorldMapAsset>data/graphics/ui/3d_objects/world_map/clickable_south_america_01.cfg</WorldMapAsset>
+                <SecondPartyReferenceUnlock>1010464</SecondPartyReferenceUnlock> <!-- **** REVISAR **** -->
+            </Session>
+            <Text>
+                <LocaText>
+                    <English>
+                        <Text>Nitraria</Text>
+                        <Status>Exported</Status>
+                        <ExportCount>2</ExportCount>
+                    </English>
+                </LocaText>
+            </Text>
+            <Locked>
+                <DefaultLockedState>0</DefaultLockedState>
+            </Locked>
+            <WorldMapSound>
+                <UIClickEvent>9818389</UIClickEvent>
+            </WorldMapSound>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- Icon for region -->
+    <ModOp Type="add" GUID='500927' Path="/Values/SideNotificationsArchive/CoopSessionIcons">
+        <Item>
+            <Session>2005000010</Session>
+            <Icon>data/ui/2kimages/main/icons/icon_session_nitraria_0.png</Icon>
+        </Item>
+    </ModOp>
+
+    <!-- Add new background for region (Trading) -->
+    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='501683']">
+        <Asset>
+            <Template>Icon</Template>
+            <Values>
+            <Standard>
+                <GUID>2005000013</GUID>
+                <Name>NitrariaBackground</Name>
+                <IconFilename>data/ui/2kimages/main/assets/session_btn/session_btn_nitraria_0.png</IconFilename>
+            </Standard>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- Add new icon for region (Trading) -->
+    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='501342']">
+        <Asset>
+            <Template>Icon</Template>
+            <Values>
+            <Standard>
+                <GUID>2005000014</GUID>
+                <Name>Nitraria Icon</Name>
+                <IconFilename>data/ui/2kimages/main/icons/icon_session_nitraria_0.png</IconFilename>
+            </Standard>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- Add new background for region (World Map) -->
+    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='500875']">
+        <Asset>
+            <Template>Icon</Template>
+            <Values>
+            <Standard>
+                <GUID>2005000015</GUID>
+                <Name>NitrariaCardBackground</Name>
+                <IconFilename>data/ui/2kimages/main/assets/worldcard_bg/bg_worldcard_nitraria_0.png</IconFilename>
+            </Standard>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- Add MapIcon/Background to session -->
+    <ModOp Type="add" GUID='501680' Path="/Values/SessionScene/SessionList">
+        <Item>
+            <Session>2005000010</Session>
+            <Icon>2005000014</Icon>
+            <Text>2005000010</Text>
+            <Background>2005000013</Background>
+        </Item>
+    </ModOp>
+
+    <!-- Add session to world map -->
+    <ModOp Type="add" GUID='180036' Path="/Values/WorldMap/ReleaseSessions">
+        <Item>
+            <Session>2005000010</Session>
+        </Item>
+    </ModOp>
+
+    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='110933']">
+    <Asset>
+        <Template>MapTemplate</Template>
+        <Values>
+            <Standard>
+                <GUID>2005000012</GUID>
+                <Name>Nitraria</Name>
+            </Standard>
+            <MapTemplate>
+                <IslandSize>Large</IslandSize>
+                <TemplateFilename>data/sessions/maps/nitraria/nitraria.a7t</TemplateFilename>
+                <TemplateSize>Large</TemplateSize>
+                <TemplateRegion>Colony01</TemplateRegion>
+            </MapTemplate>
+        </Values>
+    </Asset>
+</ModOp>
+
+    <!-- Add Keybinding -->
+    <ModOp Type="add" GUID="2001271" Path="/Values/GUIConfig/KeyBindings">
+        <Item>
+            <KeyTypes>Keypad 9</KeyTypes>
+            <Command>TextSources.TextSourceRoots.Interface.JumpToSession(2005000010)</Command>
+            <Text>2005000011</Text>
+            <Active>Session;WorldMap</Active>
+            <Identifier>2005000010</Identifier>
+			 <AvailableOnPlatforms>PC;Xbox;PS;Stadia</AvailableOnPlatforms>
+        </Item>
+    </ModOp>
+
+    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='23427']">
+        <Asset>
+            <Template>Text</Template>
+            <Values>
+            <Standard>
+                <GUID>2005000011</GUID>
+                <Name>Nitraria</Name>
+            </Standard>
+            <Text>
+                <LocaText>
+                <English>
+                    <Text>Enter "Nitraria"</Text>
+                    <Status>Exported</Status>
+                    <ExportCount>2</ExportCount>
+                </English>
+                </LocaText>
+            </Text>
+            </Values>
+        </Asset>
+    </ModOp>
+	
+
+</ModOps>

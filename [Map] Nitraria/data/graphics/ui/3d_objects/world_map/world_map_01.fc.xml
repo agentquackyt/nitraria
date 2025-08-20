@@ -1,0 +1,38 @@
+<ModOps>
+  <ModOp Type="add" Path="/DummyRoot/Groups">
+    
+  <i>
+      <hasValue>1</hasValue>
+       <Name>2005000010_0</Name>
+       <Groups />
+         <Dummies>
+          <i>
+            <hasValue>1</hasValue>
+            <Name>2005000010_0</Name>
+            <Position>
+                <x>14.738</x>
+                <y>-0.22444</y>
+                <z>17.82</z>
+            </Position>
+            <Orientation>
+               <w>0.711145</w>
+               <x>0.000000</x>
+               <y>0.911570</y>
+               <z>0.000000</z>
+             </Orientation>
+            <Extents>
+                <x>0.100000</x>
+                <y>0.100000</y>
+                <z>0.100000</z>
+            </Extents>
+           <RotationY>1.009012</RotationY>
+          <Id>$auto</Id>
+          <HeightAdaptationMode>1</HeightAdaptationMode>
+          </i>
+            </Dummies>
+            <Id>$auto</Id>
+          </i>
+     
+  </ModOp>
+
+</ModOps>

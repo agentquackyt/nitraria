@@ -1,0 +1,31 @@
+{
+  "Version": "1.0.1",
+  "ModID": "[Gameplay] Nitraria - A saltpeter story",
+  
+  "Category": {
+    "Chinese": "Gameplay",
+    "English": "Gameplay",
+    "French": "Gameplay",
+    "German": "Gameplay",
+    "Italian": "Gameplay",
+    "Japanese": "Gameplay",
+    "Korean": "Gameplay",
+    "Polish": "Gameplay",
+    "Russian": "Gameplay",
+    "Spanish": "Gameplay",
+    "Taiwanese": "Gameplay"
+  },
+  "ModName": {
+    "Chinese": "Nitraria - A saltpeter story",
+    "English":  "Nitraria - A saltpeter story",
+    "French":  "Nitraria - A saltpeter story",
+    "German":  "Nitraria - A saltpeter story",
+    "Italian":  "Nitraria - A saltpeter story",
+    "Japanese":  "Nitraria - A saltpeter story",
+    "Korean":  "Nitraria - A saltpeter story",
+    "Polish":  "Nitraria - A saltpeter story",
+    "Russian":  "Nitraria - A saltpeter story",
+    "Spanish": "Nitraria - A saltpeter story",
+    "Taiwanese":  "Nitraria - A saltpeter story"
+  }
+}

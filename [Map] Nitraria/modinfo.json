@@ -1,0 +1,31 @@
+{
+  "Version": "1.1.2",
+  "ModID": "[Map] Nitraria",
+  
+  "Category": {
+    "Chinese": "Map",
+    "English": "Map",
+    "French": "Map",
+    "German": "Map",
+    "Italian": "Map",
+    "Japanese": "Map",
+    "Korean": "Map",
+    "Polish": "Map",
+    "Russian": "Map",
+    "Spanish": "Map",
+    "Taiwanese": "Map"
+  },
+  "ModName": {
+    "Chinese": "Nitraria",
+    "English":  "Nitraria",
+    "French":  "Nitraria",
+    "German":  "Nitraria",
+    "Italian":  "Nitraria",
+    "Japanese":  "Nitraria",
+    "Korean":  "Nitraria",
+    "Polish":  "Nitraria",
+    "Russian":  "Nitraria",
+    "Spanish": "Nitraria",
+    "Taiwanese":  "Nitraria"
+  }
+}
