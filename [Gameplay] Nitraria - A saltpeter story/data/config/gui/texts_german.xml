@@ -3,7 +3,7 @@
   <ModOp Type="add" Path="/TextExport/Texts">
     <Text>
       <GUID>2005001002</GUID>
-      <Text>Fertilizer</Text> <!-- Fertilizer Chain Menu -->
+      <Text>Dünger</Text> <!-- Fertilizer Chain Menu -->
     </Text>
     <Text>
       <GUID>2005001001</GUID>
@@ -11,7 +11,7 @@
     </Text>
     <Text>
       <GUID>2005001011</GUID>
-      <Text>Industrial plant capable of transforming nitrate rocks into concentrated saltpetre, to be used as fertilizer.</Text> <!-- Salitrera description -->
+      <Text>Industrie zur Umwandlung von Nitratgestein in konzentrierten Salpeter, der als Düngemittel verwendet wird.</Text> <!-- Salitrera description -->
     </Text>
     <Text>
       <GUID>2005001003</GUID>
@@ -19,11 +19,11 @@
     </Text>
     <Text>
       <GUID>2005001004</GUID> <!-- Calichera description -->
-      <Text>Nitrate deposit from which, with great effort and sweat, nitrate rocks are extracted. Buildable on Clay Mines</Text>
+      <Text>Nitratlagerstätte, aus der mit viel Mühe und Schweiß Nitratgestein abgebaut wird. Bebaubar auf Lehmgruben</Text>
     </Text>
     <Text>
       <GUID>2005001012</GUID> <!-- Production chain description -->
-      <Text>A new production chain, ideal for Nitraria region</Text>
+      <Text>Eine neue Produktionskette, ideal für die Region Nitraria</Text>
     </Text>
 
     <Text>
@@ -32,7 +32,7 @@
     </Text>
     <Text>
       <GUID>2005001014</GUID> <!-- Production chain description -->
-      <Text>A nitrate miner who, with effort and experience, extracts nitrate from the desert soil.</Text>
+      <Text>Ein Nitratbergmann, der mit Mühe und Erfahrung Nitrat aus dem Wüstenboden gewinnt.</Text>
     </Text>
     <Text>
       <GUID>2005001015</GUID> <!-- Production chain description -->
@@ -40,7 +40,7 @@
     </Text>
     <Text>
       <GUID>2005001016</GUID> <!-- Production chain description -->
-      <Text>A saltpeter worker who produces fertilizers by boiling and refining nitrate.</Text>
+      <Text>Ein Salpeterarbeiter, der Düngemittel durch Sieden und Raffinieren von Nitrat herstellt.</Text>
     </Text>
 
   </ModOp>
